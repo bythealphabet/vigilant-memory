@@ -1,14 +1,14 @@
 {
-  "name": "react-ts",
+  "name": "react-ts-practice",
   "version": "1.0.0",
-  "description": "react18 webpack5 with typescript template",
+  "description": "react with typescript practice project",
   "main": "index.js",
   "scripts": {
     "dev": "webpack serve --env mode=development",
     "prod": "webpack --env mode=production"
   },
   "repository": "git@github.com:bythealphabet/react-ts.git",
-  "author": "bythealphabet <bythealphabet@gmail.com>",
+  "author": "bythealphabet <lucas@bythealphabet.com>",
   "license": "MIT",
   "dependencies": {
     "react": "^17.0.2",
